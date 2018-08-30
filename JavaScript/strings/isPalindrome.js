@@ -61,7 +61,7 @@ otherPalindrome("oho!") // false
 
 // ----------------------------------------
 //
-// Compare as abobe using helper functions()
+// Compare as abobe using built in helper functions()
 
 function palindrome(str) {
   // var re = /[\W_]/g;
